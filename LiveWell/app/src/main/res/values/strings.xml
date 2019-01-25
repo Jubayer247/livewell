@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CounterActivity</string>
+    <string name="change_password">Change password</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="hint_email">Enter email</string>
+    <string name="old_password">Old password</string>
+    <string name="new_password">New password</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="btn_link_to_login">link_to_login</string>
+    <string name="hint_name">Enter your name</string>
+</resources>
